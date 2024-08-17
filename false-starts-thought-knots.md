@@ -1,0 +1,5 @@
+“False Starts/Thought Knots” is a brash, chunky piece for solo violin, commissioned by Chloe Johnson for her 2023 special degree violin recital. It’s somehow my first publically released solo piece? I was very happy to be prompted to write for violin, which is a perfect instrument on which to express some more synthesis of my typical music interests with classical ideas. As a result, the piece flits between harmonically saturated violin material and aggressive, angular material reminiscent of electric guitars in metal music. The primitive, intimate personality of the material is compounded by the evocation ritual of a rehearsal environment to begin the piece.
+
+A few notable influences here are György Ligeti (as always), John Petrucci’s unmatched electric guitar technique which continually draws me further into studying guitar and stringed instrument playing, and the band Intronaut who I’ve integrated a specific technique from. A gargantuan thanks as well to Chloe Johnson for commissioning this solo and truly elevating it with her deft performance!
+
+If you’d like sheet music for any reason, feel free to contact me via email or wherever.
