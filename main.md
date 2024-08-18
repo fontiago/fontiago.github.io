@@ -6,7 +6,7 @@
 
 🎥🎼 [Drum solo transcription](https://www.youtube.com/watch?v=MM1hD2RKajI) of a 2023 Larnell Lewis live solo on “What About Me?”
 
-🎼 [“False Starts/Thought Knots”](false-starts-thought-knots.md) **NEEDS LINK TO MD** – piece for solo violin (commission)
+🎼 [“False Starts/Thought Knots”](false-starts-thought-knots.md) – piece for solo violin (commission)
 
 🥁📷 [Completed assembling daVille drumset #2](https://cohost.org/eden/post/1004460-drums-done)
 
@@ -16,13 +16,17 @@
 
 ## 2020
 
-🎼 Analysis of “Pull Me Under” and “On the Backs of Angels” by Dream Theater **NEEDS PORTING FROM BLOG**
+<details>
+
+<summary>🎼 Analysis of “Pull Me Under” and “On the Backs of Angels” by Dream Theater **NEEDS PORTING FROM BLOG**</summary>
+
+</details>
 
 🎥🎼 [Analysis of excerpts](https://www.youtube.com/watch?v=bI8TAnBxdh4) from Ki and Deconstruction by Devin Townsend
 
 ## 2019
 
-🎼 “Vines Don’t Reach” **NEEDS LINK TO MD** – 12-tone duet for marimba & vibraphone
+🎼 [“Vines Don’t Reach”](vines-dont-reach.md) – 12-tone duet for marimba & vibraphone
 
 📷 [Looks like we’re in for some great flicks ahead!](https://x.com/fontiago/status/1125863258429067264)
 
@@ -44,7 +48,7 @@
 
 ♫ [Selected marimba pieces](https://www.youtube.com/watch?v=VEYxx8HhhZA) from Novembeat 2016
 
-🥁 [Jazz theme & drums]() **NEEDS LINK TO MD** for Going Down with the Ship
+🥁 [Jazz theme & drums](going-down-with-the-ship-theme.md) for Going Down with the Ship
 
 ♫ Crystal Kingdom cue by Griffin McElroy [on mallet percussion](https://www.youtube.com/watch?v=hLySHKpDi9Uhttps://www.youtube.com/watch?v=hLySHKpDi9U)
 
@@ -54,7 +58,17 @@
 
 ## 2015
 
-🎼 ["But is it Feminist?"]() **NEEDS LINK TO MD** – first draft
+<details>
+
+<summary>🎼 ["But is it Feminist?"](but-is-it-feminist.md) – brass quintet sketch</summary>
+
+*from 2016*
+
+In the fall semester of 2015, I was requested to write a brass quintet piece by my composition instructor Kevin Hanlon. Having spent quite a bit of time on long pieces prior to that, I wanted to write something short and to the point. I ended up spending roughly the same amount of time on this piece but... c'est la vie. György Ligeti's bagatelles for Wind Quintet from his Musica Ricercata were a major inspiration as they always are.
+
+The title of the piece is a satirical reference to the flow of discourse and the overeagerness of many to focus on labels and nominal progressivism without actually investigating behaviors or realizing intersectional feminism as a lens to be applied for analysis rather than a permanent decal (and don't misinterpret me, I am 110% supportive of feminism on every level and plane). To that end, the piece features motives stated and restated, interrupted and resumed, with all voices frantically shouting over each other amounting to nothing. Compositionally, I used a lot of ideas from metal (what else is new) and tried to realize the same energy and primality with a brass ensemble while exploring all the layering and density options I could get 5 single-line instruments to perform - a good bridge to something much denser and with more instrumentation in the future, perhaps!
+
+</details>
 
 🎼 "Quiet Water" from Undertale by Toby Fox – arranged for solo vibraphone
 
