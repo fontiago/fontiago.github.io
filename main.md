@@ -4,9 +4,9 @@
 
 🎼 [Thoughts on Haken](https://cohost.org/eden/post/3498555-my-review-of-the-4-m) after diving into 4 albums
 
-🎥🎼 [Drum solo transcription](https://www.youtube.com/watch?v=MM1hD2RKajI) of a 2023 Larnell Lewis live solo on “What About Me?”
+🎥🎼 [Drum solo transcription](https://www.youtube.com/watch?v=MM1hD2RKajI) of a 2023 Larnell Lewis live solo on "What About Me?”
 
-🎼 [“False Starts/Thought Knots”](false-starts-thought-knots.md) – piece for solo violin (commission)
+🎼 ["False Starts/Thought Knots”](false-starts-thought-knots.md) – piece for solo violin (commission)
 
 🥁📷 [Completed assembling daVille drumset #2](https://cohost.org/eden/post/1004460-drums-done)
 
@@ -18,7 +18,7 @@
 
 <details>
 
-<summary>🎼 Analysis of “Pull Me Under” and “On the Backs of Angels” by Dream Theater **NEEDS PORTING FROM BLOG**</summary>
+<summary>🎼 Analysis of "Pull Me Under” and "On the Backs of Angels” by Dream Theater **NEEDS PORTING FROM BLOG**</summary>
 
 </details>
 
@@ -26,13 +26,13 @@
 
 ## 2019
 
-🎼 [“Vines Don’t Reach”](vines-dont-reach.md) – 12-tone duet for marimba & vibraphone
+🎼 ["Vines Don’t Reach”](vines-dont-reach.md) – 12-tone duet for marimba & vibraphone
 
 📷 [Looks like we’re in for some great flicks ahead!](https://x.com/fontiago/status/1125863258429067264)
 
 ## 2018
 
-♫ [Additional original score](https://edenporter.bandcamp.com/album/bugs-kisses-demo-score) for Bugs & Kisses visual novel – “miniature comet!”
+♫ [Additional original score](https://edenporter.bandcamp.com/album/bugs-kisses-demo-score) for Bugs & Kisses visual novel – "miniature comet!”
 
 🎼 ["The rich feel safe, and yet they have names"](https://www.youtube.com/watch?v=XIIwUb-L9Mw) – percussion quartet
 
@@ -48,19 +48,27 @@
 
 ♫ [Selected marimba pieces](https://www.youtube.com/watch?v=VEYxx8HhhZA) from Novembeat 2016
 
-🥁 [Jazz theme & drums](going-down-with-the-ship-theme.md) for Going Down with the Ship
+<details>
+
+<summary>🥁 Jazz theme & drums for Going Down with the Ship</summary>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2841012839/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edenporter.bandcamp.com/track/going-down-with-the-ship-theme">Going Down with the Ship theme by Eden Evelyn Rosalina Porter</a></iframe>
+
+When I decided to do a podcast, I knew that I wanted to compose its theme song. I love composing jazz and music-for-purpose so I decided to go with something that would represent the podcast tonally: cute, melodic, and colorful. I had just woken up from a nap and recorded myself singing a little head on my phone, and frankly, I just put it into Garageband from there with some minor alterations and built the harmony behind it. Being a percussionist I felt the vibraphone would be a great timbre to open up with every week - it's programmed, but Garageband has enough fidelity to sound great, I think, and I made sure to add little flourishes and timing/dynamic shaping. I modeled much of the piano solo on Snarky Puppy solos - none I can remember specifically, but Cory Henry's influence is always present when I am writing for keyboard. Drums were engineered, recorded, and mastered by myself. I would love to redo this at some point with real instruments (and thus fix the vibraphone solo panning to the left for no reason by the end of its solo - whoops).
+
+</details>
 
 ♫ Crystal Kingdom cue by Griffin McElroy [on mallet percussion](https://www.youtube.com/watch?v=hLySHKpDi9Uhttps://www.youtube.com/watch?v=hLySHKpDi9U)
 
 🥁 ["Come Hell or High Water"](https://www.youtube.com/watch?v=gYIFGWI5B00) – Native Construct drumset cover
 
-🎼 Intermission by The Protomen transcribed [for acoustic guitar trio]() **NEEDS LINK TO PDF**
+🎼 Intermission by The Protomen [transcribed for acoustic guitar trio](Protomen-Intermission-Full-Score.pdf)
 
 ## 2015
 
 <details>
 
-<summary>🎼 ["But is it Feminist?"](but-is-it-feminist.md) – brass quintet sketch</summary>
+<summary>🎼 "But is it Feminist?" – brass quintet sketch</summary>
 
 *from 2016*
 
